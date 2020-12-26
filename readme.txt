@@ -22,3 +22,4 @@ all other future pushs do not need origin master
 
 
 # merging can ccause probmlems if same line exists elsewhere
+# For modified files only need git commit -am ""
