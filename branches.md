@@ -6,3 +6,6 @@ use this command to see your branches
 switches between branches
 git checkout -b feature         //creates branch of name "feature"
                                 // better practice to have a more descriptive name like "feature-adding-notes"
+
+# git branch -d nameOFbranch
+use to delete
