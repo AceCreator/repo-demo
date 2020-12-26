@@ -15,5 +15,9 @@ use to delete
 git push -u origin test
 
 # git reset 
-# git reset HEAD
+# git reset HEAD~1
 can reset latest commit
+
+# git log
+after that we can git reset at a certain commit
+or can even use git  reset --hard (...) for complete removal
