@@ -17,3 +17,8 @@ now we can git push origin master
 #Note 4
 for future push, do an initial push: git push -u origin master
 all other future pushs do not need origin master
+
+
+
+
+# merging can ccause probmlems if same line exists elsewhere
