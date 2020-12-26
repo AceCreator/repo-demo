@@ -14,3 +14,6 @@ use to delete
 # push new branch
 git push -u origin test
 
+# git reset 
+# git reset HEAD
+can reset latest commit
